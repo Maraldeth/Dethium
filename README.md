@@ -1,7 +1,6 @@
 Dethium
 =======
 
-A minimalist Team Fortress 2 hud made by maraldeth (http://steamcommunity.com/id/maraldeth/).
 
 About
 -------
