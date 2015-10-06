@@ -6,7 +6,7 @@ A minimalist Team Fortress 2 hud.
 About
 -------
 
-A minimalist hud for TF2 made to cut out a lot of clutter included that of the stock hud.
+A minimalist hud for TF2 made for playing competitive modes.
 
 It was originally created for myself as a fun side project to do while I wasn't doing schoolwork, but I've been asked by others to release it, so here it is. However, this is very much still under construction, and does NOT currently have any edits for MvM. This means that while MvM may still be playable, a lot of the features will either be not visible, or cut off.
 
