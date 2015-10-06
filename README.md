@@ -48,7 +48,6 @@ Credits
 * rayshud   - Inspiration.
 * Toonhud   - Inspiration.
 * Prismhud  - Inspiration.
-* prismhud  - Inspiration.
 
 
 
