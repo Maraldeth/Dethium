@@ -1,4 +1,4 @@
-rayshud
+Dethium
 =======
 
 A hud for Team Fortress 2.
