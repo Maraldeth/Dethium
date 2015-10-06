@@ -5,7 +5,7 @@ Dethium
 About
 -------
 
-A minimalist hud for TF2 made for playing competitive modes.
+A minimalist hud for TF2 made to play competitive modes.
 
 Download
 --------
