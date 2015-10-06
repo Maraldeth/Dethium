@@ -13,7 +13,7 @@ It was originally created for myself as a fun side project to do while I wasn't 
 To-Do List
 --------
 
-* nothing
+* nothing yet
 
 Screenshots
 --------
@@ -33,7 +33,7 @@ Be sure to back up your old hud folder first! Never know when something might br
 2. Navigate to `C:\Program Files (x86)\Steam\SteamApps\common\Team Fortress 2\tf`
 3. Create a folder named `custom` if it does not already exist
 4. Extract dethium into `custom` directory.
-5. GG WP
+5. GG
 
 The final structure should resemble the following:
 ```
@@ -49,14 +49,17 @@ tf
 Help/Support
 --------
 
-none
+nothing yet
 
 Credits
 --------
 
-* rayshud - For motivating me to start making my own hud, occasional reference, and inspiration.
-* prismhud - Inspiration, occasional reference.
-* Doodles - If it weren't for your guide, I couldn't have made this at all. Thanks a million, man. 
+
+* Doodles   - Hud creating guide, http://doodlesstuff.com/?tutorial=tf2hud. 
+* rayshud   - Inspiration.
+* Toonhud   - Inspiration.
+* Prismhud  - Inspiration.
+* prismhud  - Inspiration.
 
 
 
