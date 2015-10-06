@@ -36,15 +36,6 @@ tf
 
 
 
-To-Do List
---------
-
-* nothing yet
-
-Screenshots
---------
-* coming soon
-
 Help/Support
 --------
 
