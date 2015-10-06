@@ -11,7 +11,7 @@ A minimalist hud for TF2 made for playing competitive modes.
 Download
 --------
 
-Click the "ZIP" button with the cloud next to it in order to download the most recent version of my hud! It should be at the top of the page. 
+Click [url=https://github.com/Maraldeth/Dethium/archive/master.zip]HERE[/url] to download the lastest Version.
 
 Install
 --------
